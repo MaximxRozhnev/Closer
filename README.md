@@ -1,0 +1,2 @@
+# Closer
+Closes duplicate processes
