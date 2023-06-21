@@ -18,6 +18,6 @@
 5. Copy the shortcut Closer.exe
 6. Restart the PC
 
-```If it is necessary to remember the past or add/remove, we change Process.txt , after restarting the PC```
+```If it is necessary to remember the past or add/remove, we change Process.txt, after restarting the PC```
 
 Only for Windows
